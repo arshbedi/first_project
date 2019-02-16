@@ -4,6 +4,8 @@ div {
     border: 1px solid red;
     border-radius: 100%;
     background-image: url("../oo6 emmet/puppy.jpg");
+    /*display: inline-block;*/
+
 }
 
 img {
