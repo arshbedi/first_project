@@ -1,0 +1,33 @@
+body{
+    font-size: 40px;
+    text-align: center;
+    border: crimson 40px groove;
+
+}
+div{
+    width: 100px;
+    height: 100px;
+    background-color: darkred;
+    display: inline-block;
+}
+
+div:hover{
+    background-color: darkblue;
+    cursor: pointer;
+}
+
+a:link{
+    color: greenyellow;
+}
+
+a:visited{
+    color: darkred;
+}
+
+a:hover{
+    color: aqua;
+}
+
+a:active{
+    color: chocolate;
+}

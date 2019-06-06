@@ -1,0 +1,39 @@
+#yo{
+    color: red;
+}
+
+
+.hello{
+    color: red;
+}
+
+[target=_blank]{
+    border: 3px  dashed blue;
+}
+
+[target=_blank]:link{
+    color: blue;
+}
+[target=_blank]:visited{
+    color: red;
+}
+[target=_blank]:hover{
+    color: green;
+}
+[target=_blank]:active{
+    color: lightpink;
+}
+
+p:nth-child(4)::first-letter{
+    font-size: 36px;
+    font-weight:bold;
+    color: crimson;
+    background-color: lightgreen;
+}
+p::first-line{
+    background-color: antiquewhite;
+}
+
+div+p{
+    background-color: orange;
+}

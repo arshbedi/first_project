@@ -1,0 +1,24 @@
+html{
+    background-color: blue;
+}
+
+body{
+    background-color: lawngreen ;
+    border: 5px solid black;
+    width: 700px;
+    height: fit-content;
+    margin: 0 auto;
+}
+
+img{
+    display: block;
+    border-radius: 100%;
+    margin: 0 auto;
+    border: groove 15px orange;
+}
+h2{
+    color: Red;
+}
+.yo{
+    color: blue;
+}
